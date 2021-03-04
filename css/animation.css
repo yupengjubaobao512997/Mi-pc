@@ -1,0 +1,78 @@
+/* div{
+	box-shadow: 3px 3px 10px #00AA7F;
+} */
+.mainTop-imgs-imgA:hover{
+	box-shadow: 3px 3px 10px #00AA7F;
+}
+.mainTop-imgs-imgB:hover{
+	box-shadow: 3px 3px 10px #00AA7F;
+}
+.mainTop-imgs-imgC:hover{
+	box-shadow: 3px 3px 10px #00AA7F;
+}
+.product-content-A div:hover {
+	box-shadow: 3px 3px 10px #00AA7F;
+}
+.product-content-B ul li:hover{
+	box-shadow: 3px 3px 10px #00AA7F;
+}
+#butsPre:hover{
+	opacity: 1;
+}
+#butsNext:hover{
+	opacity: 1;
+}
+.tag >div:hover {
+	color: #fa0;
+}
+.back :hover {
+	color: #fa0;
+}
+.tagone:hover .QR-h{
+	display: block;
+	color: #000;
+}
+.WeChat:hover span{
+	display: block;
+}
+.nav-bar{
+	border-top: 1px solid #e0e0e0;
+	box-shadow: 0 5px 5px rgba(0,0,0,.07);
+}
+.con a:hover{
+	text-decoration: none;
+	color: #d8d800;
+}
+.clickShow div:hover{
+	background: #A3A3A3;
+}
+.aleft:hover{
+	background: #999;
+	color: #fff;
+}
+.dextrad:hover{
+	background: #999;
+	color: #fff;
+}
+.com div:hover{
+	border-color: #ff4a00;
+	color: #ff4a00;
+}
+.pro-p1img img:hover{
+	transform: translateZ(5px) ;
+}
+.unpaid:hover{
+	color: #ff4a00;
+}
+.list-item li:hover{
+	color: #000000;
+}
+.iconfont:hover{
+	color: #605751;
+}
+.cara:hover{
+	color: #fff;
+}
+.topayment:hover{
+	background: #FF4A00;
+}

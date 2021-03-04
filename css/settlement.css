@@ -1,0 +1,222 @@
+.box {
+	width: 1226px;
+}
+
+.outside {
+	padding-left: 50px;
+	background: #fff;
+}
+
+.bmp {
+	position: relative;
+	padding: 0 24px;
+}
+
+.address {
+	padding-top: 48px;
+}
+
+.count-detail {
+	min-height: 200px;
+	padding: 20px 0;
+	margin: 0 48px;
+}
+
+.footer-detail {
+	padding: 20px 48px;
+	border-top: 2px solid #f5f5f5;
+	height: 40px;
+}
+
+.address-header {
+	margin: 0 0 20px;
+	color: #333;
+	font-size: 18px;
+}
+
+.address-list {}
+
+.goods-header {
+	color: #333;
+	font-size: 18px;
+	line-height: 40px;
+}
+
+.goods-list {
+	padding: 5px 0;
+	border-bottom: 1px solid #e0e0e0;
+}
+
+.section-options {
+	padding: 25px 0;
+	border-bottom: 1px solid #e0e0e0;
+}
+
+.section-invoice {
+	border: none;
+}
+
+.discount {
+	position: absolute;
+	left: 0;
+	top: 20px;
+	width: 130px;
+}
+
+.ball {
+	position: absolute;
+	right: 0;
+	bottom: 20px;
+
+	height: 184px;
+}
+
+.footer-activit {
+	float: right;
+}
+
+.address-list-item {
+	display: inline-block;
+	width: 268px;
+	height: 178px;
+	border: 1px solid #e0e0e0;
+	cursor: pointer;
+	position: relative;
+	margin-right: 17px;
+	margin-bottom: 20px;
+	vertical-align: top;
+}
+
+.goods-list-item {
+	position: relative;
+	padding: 15px 0;
+}
+
+
+
+.title {
+	display: inline-block;
+	height: 38px;
+	color: #333;
+	font-size: 18px;
+	line-height: 38px;
+	width: 130px;
+
+}
+
+.options-list {
+	display: inline-block;
+	width: 960px;
+	color: #e0be3a;
+}
+
+.discount-coupon {
+	display: inline-block;
+	height: 50px;
+	line-height: 50px;
+	cursor: pointer;
+
+	height: 50px;
+}
+
+.ball-item {
+	position: relative;
+	padding-left: 126px;
+	line-height: 2;
+	text-align: right;
+	height: 28px;
+}
+
+.address-info {
+	padding: 15px 24px 0;
+
+	color: #757575;
+}
+
+.name {
+	font-size: 18px;
+	color: #333;
+	line-height: 30px;
+	margin-bottom: 10px;
+}
+
+.goods-item {
+	padding: 5px 0;
+	height: 30px;
+	/* border-bottom: 1px solid #e0e0e0; */
+}
+
+.imgleft {
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	margin: 0 10px 0 0;
+	vertical-align: middle;
+}
+
+.text-name {
+	display: inline-block;
+	width: 650px;
+	vertical-align: middle;
+}
+
+.righttext {
+	height: 20px;
+	display: inline-block;
+	width: 428px;
+}
+
+.leftprice {
+	float: left;
+}
+
+.rightprice {
+	float: right;
+	color: #e0be3a;
+}
+
+.ball-name {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 126px;
+	white-space: nowrap;
+	color: #757575;
+}
+
+.ball-money {
+	color: #ff6700;
+}
+
+.totalPrice {
+	line-height: 1;
+	height: 20px;
+	font-size: 27px;
+}
+
+.actBut {
+	margin-left: 30px;
+	display: inline-block;
+	width: 158px;
+	height: 38px;
+	border: 1px solid #b0b0b0;
+	font-size: 14px;
+	line-height: 38px;
+	text-align: center;
+	color: #b0b0b0;
+	cursor: pointer;
+}
+.topayment{
+	width: 158px;
+	height: 38px;
+	display: inline-block;
+	background: #FF6B00;
+	color: #fff;
+}
+.tocart{
+	display: inline-block;
+	width: 158px;
+	height: 38px;
+	color: #b0b0b0;
+	cursor: pointer;
+}

@@ -1,0 +1,187 @@
+body {
+	min-width: 1226px;
+}
+
+
+
+.b-case {
+	width: 100%;
+	height: 100%;
+	background: #EA875E;
+
+}
+
+.b-adv {
+	width: 100%;
+	height: 600px;
+	background: #fff;
+	position: relative;
+
+}
+
+.b-advm {
+	width: 2560px;
+	height: 600px;
+	
+	overflow: hidden;
+	margin: 0 auto;
+	margin-left: -1280px;
+	position: absolute;
+	left: 50%;
+}
+
+.adlet {
+	width: 100%;
+	height: 167px;
+	background: #fff;
+	position: relative;
+}
+
+.adlet-img {
+	width: 2560px;
+	height: 167px;
+	
+	overflow: hidden;
+	margin: 0 auto;
+	margin-left: -1280px;
+	position: absolute;
+	left: 50%;
+}
+
+.blank {
+	width: 100%;
+	height: 12px;
+}
+
+.pro-f1 {
+	width: 100%;
+	height: 434px;
+	background: #EA875E;
+
+}
+
+.pro-p1 {
+	width: 1226px;
+	height: 434px;
+	margin: 0 auto;
+	display: flex;
+	perspective:200px;
+	overflow: hidden;
+	
+}
+
+.imgS {
+	width: 854px;
+	height: 434px;
+	transition: 1s linear;
+	margin: 0;
+}
+
+.pro-p1img {
+	width: 852px;
+	height: 432px;
+	background: #e6e6e6;
+	border: 1px solid #e6e6e6;
+}
+
+.item-cn {
+	flex: 1;
+	padding: 105px 0 10px 45px;
+	vertical-align: bottom;
+	background: #fff;
+}
+
+.h3 {
+	font-size: 24px;
+	font-weight: 400;
+	width: 330px;
+	height: 35px;
+}
+
+.p1 {
+	width: 330px;
+	font-size: 14px;
+	color: #666;
+}
+
+.p2 {
+	margin-top: 45px;
+	color: rgb(234, 98, 91);
+}
+
+.numB {
+	font-size: 24px;
+}
+
+.QI {
+	font-size: 14px;
+
+}
+
+.bt {
+	border-radius: 2px;
+	width: 160px;
+	height: 44px;
+	line-height: 44px;
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+	font-size: 18px;
+	border: none;
+	margin-top: 18px;
+	background-color: rgb(234, 98, 91);
+}
+
+
+
+.pro-f1s{
+	height: 492px;
+}
+
+
+
+
+
+.pro-p1s {
+	height: 492px;
+	justify-content: space-between;
+}
+.left-pro{
+	width: 358px;
+}
+.p1imgs {
+	width: 604px;
+	height: 355px;
+}
+
+.imgs {
+	width: 606px;
+	height: 357px;
+}
+
+.cns {
+	display: block;
+	width: 606px;
+	height: 133px;
+	padding: 0;
+}
+
+.left-text {
+	margin-left: 28px;
+	padding-top: 35px;
+	float: left;
+	width: 360px
+}
+
+.right-show {
+	float: right;
+	margin-right: 45px;
+	padding-top: 25px;
+	text-align: right;
+}
+.p2s{
+	margin: 0;
+}
+.bts{
+	margin: 0;
+}
